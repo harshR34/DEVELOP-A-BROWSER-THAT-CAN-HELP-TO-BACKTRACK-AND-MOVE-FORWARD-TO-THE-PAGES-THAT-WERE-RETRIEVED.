@@ -1,0 +1,2 @@
+# DEVELOP-A-BROWSER-THAT-CAN-HELP-TO-BACKTRACK-AND-MOVE-FORWARD-TO-THE-PAGES-THAT-WERE-RETRIEVED.
+A browser with backtracking and forward navigation capabilities allows users to easily navigate through their browsing history. It stores visited pages, enabling users to backtrack to previously viewed content and move forward again. This feature enhances browsing efficiency and user experience by facilitating seamless navigation.
